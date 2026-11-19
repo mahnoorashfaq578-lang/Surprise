@@ -497,7 +497,9 @@ button {
   position: relative;
   margin-top: 45px;
 }
-
+ .fa-sparkles{
+   color: var(--gold);
+ }
 .candles {
   position: absolute;
   z-index: 4;
